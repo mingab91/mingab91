@@ -6,7 +6,7 @@ Gooda https://goodda.co.kr/
 
 티스토리 https://mingab91.tistory.com/
 
-포트폴리오 http://mingab91.dothome.co.kr/
+웹 퍼블리셔 시절 포트폴리오 http://mingab91.dothome.co.kr/
 <!--
 **mingab91/mingab91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
