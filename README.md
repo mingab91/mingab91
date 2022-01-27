@@ -1,5 +1,12 @@
-### Hi there 👋
+### Frontend ( React ) 개발자 조민갑 입니다. 👋
 
+함께 일하고 싶은 개발자가 되는 것을 목표로 하고 있습니다. 발전하는 개발자가 되겠습니다.
+
+Gooda https://goodda.co.kr/
+
+티스토리 https://mingab91.tistory.com/
+
+포트폴리오 http://mingab91.dothome.co.kr/
 <!--
 **mingab91/mingab91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
