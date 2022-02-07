@@ -5,8 +5,7 @@
 
 -기술 스택-<br>
 React, Restful Api, Ajax, Axios, React-redux, Styled-components, Javascript, Html, css 
-<br>
--직무경력-<br>
+<br>-직무경력-<br>
 2020. 08 ~ 2021. 09 // 회사명 : 미디어닥터 // 직무 : 웹퍼블리셔 + 웹디자이너
 1. 자체브랜드 웹페이지와 모바일 페이지 수정 개편
 - 작은 폰트사이즈, 상품 상세페이지 순서, 이해하기 어려운 이벤트와 메뉴들 수정 개편 
@@ -16,10 +15,10 @@ React, Restful Api, Ajax, Axios, React-redux, Styled-components, Javascript, Htm
 - 쇼핑몰 홈페이지 회원수 7,000명에서 1년만에 23,000명으로 증대
 - 하루 매출이 개편 전 80만원에서 개편 후 400만원으로 개선
 <br>
-- 티스토리 -
+-티스토리-
 https://mingab91.tistory.com/
 
-- 웹 퍼블리셔 시절 포트폴리오 -
+-웹 퍼블리셔 시절 포트폴리오-
 http://mingab91.dothome.co.kr/
 
 -항해 99 3기 실전프로젝트-
