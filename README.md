@@ -4,7 +4,8 @@
 함께 일하고 싶은 사람, 발전하는 개발자가 되겠습니다.
 
 -기술 스택-<br>
-React, Restful Api, Ajax, Axios, React-redux, Styled-components, Javascript, Html, css 
+React, Restful Api, Ajax, Axios, React-redux, Styled-components, Javascript, Html, css <br>
+
 <br>-직무경력-<br>
 2020. 08 ~ 2021. 09 // 회사명 : 미디어닥터 // 직무 : 웹퍼블리셔 + 웹디자이너
 1. 자체브랜드 웹페이지와 모바일 페이지 수정 개편
