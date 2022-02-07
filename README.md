@@ -6,7 +6,7 @@
 -기술 스택-<br>
 React, Restful Api, Ajax, Axios, React-redux, Styled-components, Javascript, Html, css <br>
 
-<br>-직무경력-<br>
+-직무경력-<br>
 2020. 08 ~ 2021. 09 // 회사명 : 미디어닥터 // 직무 : 웹퍼블리셔 + 웹디자이너
 1. 자체브랜드 웹페이지와 모바일 페이지 수정 개편
 - 작은 폰트사이즈, 상품 상세페이지 순서, 이해하기 어려운 이벤트와 메뉴들 수정 개편 
